@@ -1,2 +1,2 @@
 # mygit
-git comments
+Git Comments added for reference
