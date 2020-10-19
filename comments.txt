@@ -1,6 +1,6 @@
 Here are the Git commands which are being covered:
 
-git config
+git config ---- done
 git init
 git clone
 git add
